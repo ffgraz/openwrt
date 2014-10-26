@@ -1,8 +1,10 @@
 /*
- *  TP-LINK TL-WA7210N board support
+ *  TP-LINK TL-WA7210N v2.1 board support
  *
  *  Copyright (C) 2011 dongyuqi <729650915@qq.com>
  *  Copyright (C) 2011-2012 Gabor Juhos <juhosg@openwrt.org>
+ *  Copyright (C) 2014 Nicolas Braud-Santoni <nicolas@braud-santoni.eu>
+ *  Copyright (C) 2014 Alexander List <alex@graz.funkfeuer.at>
  *
  *  This program is free software; you can redistribute it and/or modify it
  *  under the terms of the GNU General Public License version 2 as published
