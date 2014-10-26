@@ -141,7 +141,7 @@ $(eval $(call Profile,TLWA701))
 
 define Profile/TLWA7210N
 	NAME:=TP-LINK TL-WA7210N
-	PACKAGES:=kmod-usb-core kmod-usb2 kmod-ledtrig-usbdev
+	PACKAGES:=
 endef
 
 define Profile/TLWA730RE
