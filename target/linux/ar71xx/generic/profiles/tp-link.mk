@@ -144,10 +144,10 @@ define Profile/TLWA7210N
 	PACKAGES:=
 endef
 
-define Profile/TLWA7210/Description
+define Profile/TLWA7210N/Description
 	Package set optimized for the TP-LINK TL-WA7210N.
 endef
-$(eval $(call Profile,TLWA7210))
+$(eval $(call Profile,TLWA7210N))
 
 define Profile/TLWA730RE
 	NAME:=TP-LINK TL-WA730RE
