@@ -66,5 +66,5 @@ static void __init tl_wa7210n_v2_setup(void)
 	ath79_register_pci();
 }
 
-MIPS_MACHINE(ATH79_MACH_TL_WA7210N_V2, "TL-WA7210N", "TP-LINK TL-WA7210N v2",
+MIPS_MACHINE(ATH79_MACH_TL_WA7210N_V2, "TL-WA7210N-v2", "TP-LINK TL-WA7210N v2",
 	     tl_wa7210n_v2_setup);
