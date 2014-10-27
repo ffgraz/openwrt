@@ -149,6 +149,7 @@ define Profile/TLWA7210N/Description
 endef
 $(eval $(call Profile,TLWA7210N))
 
+
 define Profile/TLWA730RE
 	NAME:=TP-LINK TL-WA730RE
 	PACKAGES:=
