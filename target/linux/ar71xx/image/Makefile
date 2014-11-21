@@ -1251,7 +1251,7 @@ $(eval $(call SingleProfile,TPLINK-LZMA,64kraw,TLWA801NV2,tl-wa801nd-v2,TL-WA801
 $(eval $(call SingleProfile,TPLINK-LZMA,64kraw,TLWA850,tl-wa850re-v1,TL-WA850RE,ttyS0,115200,0x08500001,1,4Mlzma))
 $(eval $(call SingleProfile,TPLINK-LZMA,64kraw,TLWA860,tl-wa860re-v1,TL-WA860RE,ttyS0,115200,0x08600001,1,4Mlzma))
 $(eval $(call SingleProfile,TPLINK-LZMA,64kraw,TLWA901NV3,tl-wa901nd-v3,TL-WA901ND-v3,ttyS0,115200,0x09010003,1,4Mlzma))
-$(eval $(call SingleProfile,TPLINK-LZMA,64kraw,TLWA7210NV2,tl-wa7210n-v2,TL-WA7210N-v2,ttyATH0,115200,0x72100002,2,4Mlzma))
+$(eval $(call SingleProfile,TPLINK-LZMA,64kraw,TLWA7210NV2,tl-wa7210n-v2,TL-WA7210N-v2,ttyATH0,115200,0x72100002,1,4Mlzma))
 $(eval $(call SingleProfile,TPLINK-LZMA,64kraw,TLWR941NV6,tl-wr941nd-v6,TL-WDR3500,ttyS0,115200,0x09410006,1,4Mlzma))
 $(eval $(call SingleProfile,TPLINK-LZMA,64kraw,TLWR1041,tl-wr1041n-v2,TL-WR1041N-v2,ttyS0,115200,0x10410002,1,4Mlzma))
 $(eval $(call SingleProfile,TPLINK-LZMA,64kraw,TLWR1043V2,tl-wr1043nd-v2,TL-WR1043ND-v2,ttyS0,115200,0x10430002,1,8M))
